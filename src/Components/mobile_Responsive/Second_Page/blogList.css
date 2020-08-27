@@ -1,0 +1,321 @@
+
+
+
+.Invent-Chat-_blog_list {
+  width: 1440px;
+  height: 3481px;
+  background-color: #232427;
+}
+.mask {
+    width: 1440px;
+    height: 100px;
+    box-shadow: inset 0 0 20px 2px #905ae9;
+    background-image: linear-gradient(264deg, rgba(19, 117, 36, 0.15) 100%, rgba(255, 255, 255, 0) 89%), linear-gradient(105deg, rgba(139, 90, 233, 0.51) 48%, #8f5ae9 60%), linear-gradient(142deg, #fcfdfc 44%, #ae92de 54%);
+  }
+  .Group-71 {
+    width: 234px;
+    height: 212px;
+    object-fit: contain;
+    margin-left: 40px;
+    margin-top: -60px;
+  }
+  .Blog {
+    width: 212px;
+    height: 26px;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.63;
+    letter-spacing: normal;
+    color: #ffffff;
+    margin-right: 9%;
+    float: right;
+    margin-top: 37px;
+    margin-bottom: 37px;
+  }
+
+  .FASHION {
+    width: 67px;
+    height: 18px;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #9263e3;
+    margin-top: 109px;
+    margin-left: 137px;
+  }
+
+  .Aug-24-2020 {
+    width: 91px;
+    height: 18px;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: wheat
+  }
+
+  .Mask {
+    width: 860px;
+    height: 445px;
+    object-fit: contain;
+  }
+
+  /* side text */
+
+  .Email-Newsletter {
+    width: 162px;
+    height: 22px;
+    font-family: Montserrat;
+    font-size: 18px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: white;
+    margin-left: 1040px;
+    
+  }
+
+  .Subscribe-my-Newslet {
+    width: 260px;
+    height: 48px;
+    opacity: 0.6;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.71;
+    letter-spacing: normal;
+    color: white;
+    margin-left: 1040px;
+  }
+  .Rectangle-Copy-23 {
+    width: 260px;
+    height: 50px;
+    border-radius: 25px;
+    background-color: #14171a;
+    margin-left: 1060px;
+    margin-top: 10px;   
+  }
+
+  .Rectangle-Copy-231 {
+    width: 260px;
+    height: 50px;
+    object-fit: contain;
+    border-radius: 25px;
+    box-shadow: 0 2px 10px 0 rgba(0, 0, 0, 0.7), 0 2px 10px 0 rgba(255, 255, 255, 0.1);
+    background-image: linear-gradient(259deg, #875ae9, #b25ae9);
+    margin-left: 1060px;
+    margin-top: 10px;   
+  }
+  .SUBSCRIBE {
+    width: 260px;
+    height: 18px;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: white;
+  }
+
+  .Your-name {
+    width: 120px;
+    height: 18px;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: white;
+  }
+  .This-is-an-example-o {
+    width: 860px;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    color: rgba(255, 255, 255, 0.8);
+    margin-top: 30px;
+    margin-bottom: 30px;
+
+  }
+
+  .Rectangle {
+    width: 160px;
+    height: 50px;
+    border-radius: 25px;
+    border: solid 1.5px #8c5ae9;
+    background-color: #232427;
+  }
+  .Read-more {
+    width: 160px;
+    height: 26px;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.63;
+    letter-spacing: normal;
+    text-align: center;
+    color: #945ae9;  
+  }
+
+  .FASHION {
+    width: 67px;
+    height: 18px;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #9263e3;
+    margin-left: 0px;
+    
+  }
+  .How-to-increase-your {
+    width: 860px;
+    height: 37px;
+    font-family: Montserrat;
+    font-size: 30px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: white;
+  }
+
+  /* Footer */
+
+  .Rectangle1f {
+    width: 1440px;
+    height: 70px;
+    opacity: 0.1;
+    background-color:black;
+    margin-top: 2888px;
+    margin-bottom: 0px;
+    
+    
+  }
+  
+  .Group-7 {
+    width: 24px;
+    height: 24px;
+    object-fit: contain;
+    margin-left: 140px;
+    margin-top: 23px;
+    border: white;
+  }
+
+  .Group-5 {
+    width: 24px;
+    height: 24px;
+    object-fit: contain;
+    margin-top: 24px;
+    margin-right: 1227px;
+  }
+
+  .Terms-Conditions- {
+    width: 253px;
+    height: 24px;
+    opacity: 0.6;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.71;
+    letter-spacing: normal;
+    text-align: right;
+    color: white;
+    margin-left: 724px;  
+    margin-top: -20px;
+  }
+
+  .Path-4-Copy {
+    width: 1px;
+    height: 24px;
+   color: white;
+    margin-left: 997px;
+    margin-top: 880px;
+  }
+
+  .Fill-961 {
+    width: 15px;
+    height: 10px;
+    object-fit: contain;
+    margin-left: 1019px;
+    margin-top: -40px;
+  }
+
+  .Contect-Us {
+    width: 78px;
+    height: 24px;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.71;
+    letter-spacing: normal;
+    color: white;
+    margin-left: 1043px;
+    margin-top: -80px;
+  }
+  
+  .Path-4 {
+    width: 1px;
+    height: 24px;
+   color: white;
+    margin-left: 1141px;
+    margin-top: -1080px;
+  }
+
+  .Invent-Chat {
+    width: 135px;
+    height: 24px;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.71;
+    letter-spacing: normal;
+    text-align: center;
+    color:white;
+    margin-left: 1161px;
+    margin-top: -68px;
+  }
+  
+  
+
+
+
+  
+  
